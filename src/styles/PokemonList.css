@@ -1,0 +1,30 @@
+.pokemons-div {
+  border: 1px solid white;
+  margin: 50px;
+  display: inline-block;
+  width: 250px;
+  height: 236px;
+  background-color: white;
+  border-radius: 10px;
+  transition:
+    width 0.5s,
+    height 0.5s;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+}
+
+* {
+  text-align: center;
+}
+
+body {
+  background-color: #f2ead3;
+}
+
+.pokemons-div:hover {
+  width: 270px;
+  height: 276px;
+}
+
+#general{
+  margin-top: 10px;
+}

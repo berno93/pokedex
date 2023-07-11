@@ -1,0 +1,18 @@
+.pokemon-details {
+  width: 350px;
+  display: block;
+  margin: 100px auto;
+  border: 1px solid white;
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+}
+
+div.progress {
+  height: 30px;
+  margin: 30px;
+}
+
+* {
+  font-family: "Tourney", cursive;
+}
